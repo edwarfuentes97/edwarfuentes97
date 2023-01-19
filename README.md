@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @edwarfuentes97
 - 👀 I’m interested in web development 
+- Angular <3
 - 📫 How to reach me:
   - edwarfuentes972@gmail.com
 
